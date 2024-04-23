@@ -1083,3 +1083,103 @@ Tognisse, Ida and SOTINDJO Patrick, (2017). Migration de la Télévision analogi
 Cotonou, 18/01/2024
 
 Ida TOGNISSE
+# CV - Babatounde Mafoya Marcel ALOEKPO
+
+# Babatounde Mafoya Marcel ALOEKPO
+
+## Expériences Professionnelles
+
+Data Engineer IA & Blockchain - Marcel ALOEKPO (de décembre 2023 à ce jour)
+
+Data Engineer - CERES ADVISORY (Groupe RAINBOW PARTNERS), Paris, France
+
+- Développement d'un collecteur de données personnalisé depuis Apidae (API; Python)
+- Tableaux de bord et mise en place d'algorithme de recommandation de séjour (Python, PowerBI)
+- Développement d'un moteur de collecte de données par scraping depuis Airbnb
+- Mise en place d'un pipeline de collecte et de traitement de données dans Big Query (Python)
+
+Formateur Data & IA - Women EdTech, Cotonou (d'octobre 2023 à ce jour)
+
+Accompagnateur Pédagogique d'EPITECH - EPITECH Bénin, Cotonou (d'octobre 2023 à novembre 2023)
+
+Data Scientist - Izichange Calavi (de juillet 2023 à octobre 2023)
+
+## Compétences
+
+- Extraction, traitement, analyse des données et data visualisation (Excel, Pandas, SQL, Data Studio)
+- Mise en place d'un chatbot conversationnel intelligent (Python, NLP)
+- Extraction automatisée par scraping (Selenium, BeautifulSoup, Pandas, Streamlit)
+- Participation à ACTINSPACE 2022 (de juillet 2022 à novembre 2022)
+- Projet Inventaire de poulets dans un poulailler (Python, Pytorch, YoloV5)
+
+## Formations
+
+Master of Science Data Engineering - Aivancity School for Technology, Business & Society Paris-Cachan (de novembre 2023 à novembre 2024)
+
+Licence en Mathématique de Décision - Institut Supérieur de Mathématique de Décision Calavi (d'octobre 2021 à juillet 2022)
+
+3ème année de Mathématique Informatique - Faculté des Sciences et Techniques (FAST-UAC), Abomey Calavi (de 2018 à 2019)
+
+### Langues
+
+Français, Anglais
+
+### Références
+
+Dr. Mounira Ilahi Amriilahi@aivancity.ai
+
+Institut Supérieur de Mathématique de Décision Calavi
+
++33159030884
+
+BELLO Mouhoutassim bello@rintio.com +33744209639
+# CV - Babatounde Mafoya Marcel ALOEKPO
+
+# Babatounde Mafoya Marcel ALOEKPO
+
+## Expériences Professionnelles
+
+Data Engineer IA & Blockchain - Marcel ALOEKPO (de décembre 2023 à ce jour)
+
+Data Engineer - CERES ADVISORY (Groupe RAINBOW PARTNERS), Paris, France
+
+- Développement d'un collecteur de données personnalisé depuis Apidae (API; Python)
+- Tableaux de bord et mise en place d'algorithme de recommandation de séjour (Python, PowerBI)
+- Développement d'un moteur de collecte de données par scraping depuis Airbnb
+- Mise en place d'un pipeline de collecte et de traitement de données dans Big Query (Python)
+
+Formateur Data & IA - Women EdTech, Cotonou (d'octobre 2023 à ce jour)
+
+Accompagnateur Pédagogique d'EPITECH - EPITECH Bénin, Cotonou (d'octobre 2023 à novembre 2023)
+
+Data Scientist - Izichange Calavi (de juillet 2023 à octobre 2023)
+
+## Compétences
+
+- Extraction, traitement, analyse des données et data visualisation (Excel, Pandas, SQL, Data Studio)
+- Mise en place d'un chatbot conversationnel intelligent (Python, NLP)
+- Extraction automatisée par scraping (Selenium, BeautifulSoup, Pandas, Streamlit)
+- Participation à ACTINSPACE 2022 (de juillet 2022 à novembre 2022)
+- Projet Inventaire de poulets dans un poulailler (Python, Pytorch, YoloV5)
+
+## Formations
+
+Master of Science Data Engineering - Aivancity School for Technology, Business & Society Paris-Cachan (de novembre 2023 à novembre 2024)
+
+Licence en Mathématique de Décision - Institut Supérieur de Mathématique de Décision Calavi (d'octobre 2021 à juillet 2022)
+
+3ème année de Mathématique Informatique - Faculté des Sciences et Techniques (FAST-UAC), Abomey Calavi (de 2018 à 2019)
+
+### Langues
+
+Français, Anglais
+
+### Références
+
+Dr. Mounira Ilahi Amriilahi@aivancity.ai
+
+Institut Supérieur de Mathématique de Décision Calavi
+
++33159030884
+
+BELLO Mouhoutassim bello@rintio.com +33744209639

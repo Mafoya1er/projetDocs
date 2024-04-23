@@ -23,7 +23,7 @@ charset-normalizer==3.3.2
 chevron==0.14.0
 Chroma==0.2.0
 chroma-hnswlib==0.7.3
-chromadb==0.4.24
+chromadb==0.3.29
 click==8.1.7
 coloredlogs==15.0.1
 dataclasses-json==0.5.14
