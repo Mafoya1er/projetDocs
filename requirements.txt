@@ -9,14 +9,12 @@ tiktoken
 huggingface-hub
 pypdf
 llama-cpp-python
-chroma
 groq
 streamlit
 langchain
 langchain-community
 llama-parse
 fastembed
-sqlite3==3.35.0
 chromadb
 python-dotenv
 langchain-groq
