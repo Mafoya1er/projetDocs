@@ -16,10 +16,10 @@ langchain
 langchain-community
 llama-parse
 fastembed
+sqlite3 >= 3.35.0
 chromadb
 python-dotenv
 langchain-groq
 chainlit
 fastembed
 unstructured[md]
-sqlite3 >= 3.35.0
