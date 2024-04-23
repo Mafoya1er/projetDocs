@@ -10,13 +10,14 @@ huggingface-hub
 pypdf
 llama-cpp-python
 groq
-sqlite3==3.4
+
 streamlit
 langchain
 langchain-community
 llama-parse
 fastembed
 chromadb
+chroma
 python-dotenv
 langchain-groq
 chainlit
