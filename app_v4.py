@@ -6,6 +6,9 @@ from langchain.llms import HuggingFaceHub
 from langchain.vectorstores import Chroma
 from langchain.chains import ConversationalRetrievalChain
 import sys
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_groq import ChatGroq
+
 
 # Function to load PDF, split into chunks, and create the retrieval chain
 import os
@@ -34,10 +37,10 @@ def load_pdf_and_create_chain(pdf_file, api_token):
     retriever = db.as_retriever(search_kwargs={'k': 2})
 
     # We are using Mistral-7B for this question answering 
-    repo_id = "mistralai/Mistral-7B-v0.1"
-    llm = HuggingFaceHub(huggingfacehub_api_token=api_token, 
-                         repo_id=repo_id, model_kwargs={"temperature":0.1, "max_new_tokens":50})
-
+    #repo_id = "mistralai/Mistral-7B-v0.1"
+    """llm = HuggingFaceHub(huggingfacehub_api_token=api_token, 
+                         #repo_id=repo_id, model_kwargs={"temperature":0.1, "max_new_tokens":50})"""
+    llm = ChatGroq(temperature=0, groq_api_key="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", model_name="mixtral-8x7b-32768")
     # Create the Conversational Retrieval Chain
     qa_chain = ConversationalRetrievalChain.from_llm(llm, retriever,return_source_documents=True)
 

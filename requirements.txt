@@ -12,3 +12,13 @@ llama-cpp-python
 chroma
 groq
 streamlit
+langchain
+langchain-community
+llama-parse
+fastembed
+chromadb
+python-dotenv
+langchain-groq
+chainlit
+fastembed
+unstructured[md]
